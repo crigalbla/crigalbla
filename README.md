@@ -18,7 +18,7 @@
 - ⚡ What I like? **I like sport and technology**
 
 <h5 align="left">Short description:</h5>
-<p align="left">Software IT Engineer focused on frontend with React. Experience with large and small work groups using agile Scrum methodology (GIS proyects, HP, Sevihabitat, Inditex companies and much more). Very organized, versatile and concise.</p>
+<p align="left">Software IT Engineer focused on frontend with React. Experience with large and small work groups using agile Scrum methodology (GIS proyects, HP, Sevihabitat, Inditex group, banks and much more). Very organized, versatile and concise.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
